@@ -1,0 +1,3 @@
+/workspace/tutorial-Erikagrj/prueba/compilar/build/CMakeFiles/Tutorial.dir
+/workspace/tutorial-Erikagrj/prueba/compilar/build/CMakeFiles/edit_cache.dir
+/workspace/tutorial-Erikagrj/prueba/compilar/build/CMakeFiles/rebuild_cache.dir
